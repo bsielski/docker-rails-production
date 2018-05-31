@@ -65,3 +65,7 @@ Then start the services
 ```
 docker-compose up -d
 ```
+
+## Flaws
+
+This early version can't serve static files by nginx and it leaves it for rails server.
