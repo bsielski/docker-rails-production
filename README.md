@@ -46,8 +46,6 @@ Edit all `*.example` files and rename them by deleting `.example` extentions.
 
 ## Deploying app
 
-### Create an image
-
 In the main app's directory
 
 ```
